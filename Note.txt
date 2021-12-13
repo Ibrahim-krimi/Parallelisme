@@ -1,0 +1,2 @@
+Projet fait par : Krimi Ibrahim 
+Projet de paralelisation de thread et processus
